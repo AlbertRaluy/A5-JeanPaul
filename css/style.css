@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+}
+
+#header {
+    background-image: url(../img/fondo1.png);
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+}
+
+#first {
+    padding: 0 15%;
+}
+
+.raton_oficina {
+    width: 15vw;
+}
+
+.teclado_oficina {
+    width: 25vw;
+}
+
+#amazon_teclado_oficina {
+    text-decoration: none;
+}
+
+.cascos_barato {
+    width: 20vw;
+    border-radius: 50px;
+}
+
+#comprar_cascos_baratos {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+#gamer {
+    color: #6c2eb9;
+    text-align: center;
+}
+
+.raton_gamer {
+    width: 15%;
+    padding-left: 45%;
+}
+
+#comprar_raton_gamer {
+    background-color: aqua;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.teclado_gamer {
+    padding-left: 30%;
+    width: 50%;
+}
+
+#comprar_teclado_gamer {
+    text-decoration: none;
+    background-color: red;
+    color: black;
+}
+
+.cascos_gamer {
+    padding-left: 30%;
+    width: 25vh;
+}
+
+#comprar_cascos_gamer {
+    background-color: orange;
+    color: blue;
+    text-decoration: none;
+    size: 15px;
+}
+
+#parrafo_final {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+}
